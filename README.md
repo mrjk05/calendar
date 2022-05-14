@@ -1,5 +1,4 @@
 # 📅 Your next Add-to-Calendar Button!
-![Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button/blob/main/repo_image.png?raw=true)
 
 _A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars._ 
 
